@@ -1,0 +1,5 @@
+com/office/app/App.class
+com/office/app/domain/Office.class
+com/office/app/service/CalendarService.class
+com/office/app/service/ParserService.class
+com/office/app/domain/Meeting.class
